@@ -1,0 +1,56 @@
+{
+  "Backbone_1":         "/home/kiemax/Helmholtz/projects/proteinTPM/noripTPM/logs/Backbone_1/fold0_run_2026_03_09-11_52_48",
+  "Backbone_2":         "/home/kiemax/Helmholtz/projects/proteinTPM/noripTPM/logs/Backbone_2/fold0_run_2026_03_08-22_08_04",
+  "Backbone_3":         "/home/kiemax/Helmholtz/projects/proteinTPM/noripTPM/logs/Backbone_3/fold0_run_2026_03_09-14_03_30",
+
+  "Terminal_amino_1":   "/home/kiemax/Helmholtz/projects/proteinTPM/noripTPM/logs/Terminal_amino_1/fold0_run_2026_03_09-06_52_33",
+  "Terminal_amino_2":   "/home/kiemax/Helmholtz/projects/proteinTPM/noripTPM/logs/Terminal_amino_2/fold0_run_2026_03_09-08_48_29",
+
+  "Guanidino_1":        "/home/kiemax/Helmholtz/projects/proteinTPM/noripTPM/logs/Guanidino_1/fold0_run_2026_03_09-09_05_32",
+  "Guanidino_2":        "/home/kiemax/Helmholtz/projects/proteinTPM/noripTPM/logs/Guanidino_2/fold0_run_2026_03_09-07_17_51",
+
+  "Hydroxyl_1":         "/home/kiemax/Helmholtz/projects/proteinTPM/noripTPM/logs/Hydroxyl_1/fold0_run_2026_03_08-19_42_38",
+  "Hydroxyl_2":         "/home/kiemax/Helmholtz/projects/proteinTPM/noripTPM/logs/Hydroxyl_2/fold0_run_2026_03_09-05_42_18",
+
+
+  "Thiol_1":            "/home/kiemax/Helmholtz/projects/proteinTPM/noripTPM/logs/Thiol_1/fold0_run_2026_03_08-22_01_26",
+  "Thiol_2":            "/home/kiemax/Helmholtz/projects/proteinTPM/noripTPM/logs/Thiol_2/fold0_run_2026_03_09-06_31_31",
+
+  "Thioether_1":        "/home/kiemax/Helmholtz/projects/proteinTPM/noripTPM/logs/Thioether_1/fold0_run_2026_03_09-06_37_24",
+  "Thioether_2":        "/home/kiemax/Helmholtz/projects/proteinTPM/noripTPM/logs/Thioether_2/fold0_run_2026_03_09-06_46_15",
+
+  "Carboxyl_1":         "/home/kiemax/Helmholtz/projects/proteinTPM/noripTPM/logs/Carboxyl_1/fold0_run_2026_03_09-09_29_40",
+  "Carboxyl_2":         "/home/kiemax/Helmholtz/projects/proteinTPM/noripTPM/logs/Carboxyl_2/fold0_run_2026_03_09-08_09_49",
+
+  "Carboxamid_1":       "/home/kiemax/Helmholtz/projects/proteinTPM/noripTPM/logs/Carboxamid_1/fold0_run_2026_03_09-06_12_32",
+  "Carboxamid_2":       "/home/kiemax/Helmholtz/projects/proteinTPM/noripTPM/logs/Carboxamid_2/fold0_run_2026_03_08-20_20_48",
+  "Carboxamid_3":       "/home/kiemax/Helmholtz/projects/proteinTPM/noripTPM/logs/Carboxamid_3/fold0_run_2026_03_08-20_39_39",
+
+  "Phe_1":              "/home/kiemax/Helmholtz/projects/proteinTPM/noripTPM/logs/Phe_1/fold0_run_2026_03_09-09_51_13",
+  "Phe_2":              "/home/kiemax/Helmholtz/projects/proteinTPM/noripTPM/logs/Phe_2/fold0_run_2026_03_09-10_08_20",
+
+  "Tyr_1":              "/home/kiemax/Helmholtz/projects/proteinTPM/noripTPM/logs/Tyr_1/fold0_run_2026_03_08-20_58_53",
+  "Tyr_2":              "/home/kiemax/Helmholtz/projects/proteinTPM/noripTPM/logs/Tyr_2/fold0_run_2026_03_09-10_26_34",
+
+  "Trp_1":              "/home/kiemax/Helmholtz/projects/proteinTPM/noripTPM/logs/Trp_1/fold0_run_2026_03_09-11_18_28",
+  "Trp_2":              "/home/kiemax/Helmholtz/projects/proteinTPM/noripTPM/logs/Trp_2/fold0_run_2026_03_08-21_24_45",
+  "Trp_3":              "/home/kiemax/Helmholtz/projects/proteinTPM/noripTPM/logs/Trp_3/fold0_run_2026_03_09-11_29_16",
+
+
+  "His_1":              "/home/kiemax/Helmholtz/projects/proteinTPM/noripTPM/logs/His_1/fold0_run_2026_03_09-11_40_35",
+  "His_2":              "/home/kiemax/Helmholtz/projects/proteinTPM/noripTPM/logs/His_2/fold0_run_2026_03_08-21_34_19",
+  "His_3":              "/home/kiemax/Helmholtz/projects/proteinTPM/noripTPM/logs/His_3/fold0_run_2026_03_08-21_43_22",
+
+
+  "Pro_1":              "/home/kiemax/Helmholtz/projects/proteinTPM/noripTPM/logs/Pro_1/fold0_run_2026_03_09-05_03_24",
+  "Pro_2":              "/home/kiemax/Helmholtz/projects/proteinTPM/noripTPM/logs/Pro_2/fold0_run_2026_03_09-05_18_59",
+  "Pro_3":              "/home/kiemax/Helmholtz/projects/proteinTPM/noripTPM/logs/Pro_3/fold0_run_2026_03_09-05_31_25",
+
+
+  "Gly_1":              "/home/kiemax/Helmholtz/projects/proteinTPM/noripTPM/logs/Gly_1/fold0_run_2026_03_09-03_53_26",
+  "Ala_1":              "/home/kiemax/Helmholtz/projects/proteinTPM/noripTPM/logs/Ala_1/fold0_run_2026_03_09-04_10_34",
+  "Leu_1":              "/home/kiemax/Helmholtz/projects/proteinTPM/noripTPM/logs/Leu_1/fold0_run_2026_03_09-04_24_39",
+  "Val_1":              "/home/kiemax/Helmholtz/projects/proteinTPM/noripTPM/logs/Val_1/fold0_run_2026_03_09-04_40_19",
+  "Ile_1":              "/home/kiemax/Helmholtz/projects/proteinTPM/noripTPM/logs/Ile_1/fold0_run_2026_03_09-04_48_52"
+
+}

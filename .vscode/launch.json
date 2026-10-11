@@ -1,0 +1,26 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "name": "Python Debugger: Current File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            //"cwd": "/home/kiemax/Helmholtz/projects/proteinTPM/Analysis/EGFR/",
+            //"cwd": "/home/kiemax/Helmholtz/projects/proteinTPM/Analysis/SARSCoV_RBD",
+            "cwd": "/home/kiemax/Helmholtz/projects/proteinTPM/Analysis/EGFR_protein_binder_competition/round2/simulations",
+            "args": [
+                    //"--pdbpath", "/home/kiemax/Helmholtz/projects/proteinTPM/noripTPM/data/sabdab/data/7ws3.pdb",
+                    //"--saveTo", "/home/kiemax/Helmholtz/projects/proteinTPM/noripTPM/data/sabdab/interfaces",
+                    // "--shard", "Guanidino_1"
+                    "--mapdata_path", "/home/kiemax/Helmholtz/projects/proteinTPM/noripTPM/data/inference/system09/Guanidino_1/mc_tpm01/"
+
+                    ]
+        }
+    ]
+}

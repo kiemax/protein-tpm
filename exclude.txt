@@ -1,0 +1,3 @@
+noripTPM/data/inference
+noripTPM/data/sabdab/data
+noripTPM/.git
