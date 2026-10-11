@@ -50,7 +50,7 @@ The codebase uses project-specific vocabulary:
 ## Installation
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/kiemax/protein-tpm
 cd proteinTPM
 pip install -e .
 ```
